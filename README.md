@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vinicus
-- 👀 I’m interested in learn about open source!
-- 🌱 I’m currently learning system analyst and developer...
+Hi, I'm Vinicius. 32 years old.
+
+Learning all about open source, software dev, blockchain...
 
 
 
